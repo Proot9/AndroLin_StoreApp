@@ -12,9 +12,9 @@ Kami menawarkan platform yang ramah dan mudah digunakan untuk mengunggah dan men
 
 * **Kemudahan Publikasi:** Proses unggah aplikasi yang cepat dan sederhana.
 
-**Eksposur Lebih Luas:** Aplikasi Anda akan dijangkau oleh komunitas pengguna yang terus berkembang.
+* **Eksposur Lebih Luas:** Aplikasi Anda akan dijangkau oleh komunitas pengguna yang terus berkembang.
 
-**Kontrol Penuh:** Anda memiliki kendali penuh atas deskripsi, pembaruan, dan monetisasi aplikasi Anda.
+* **Kontrol Penuh:** Anda memiliki kendali penuh atas deskripsi, pembaruan, dan monetisasi aplikasi Anda.
 
 Kami mengundang Anda untuk menjadi bagian dari perjalanan ini. Mari kita bangun masa depan distribusi aplikasi bersama.
 
