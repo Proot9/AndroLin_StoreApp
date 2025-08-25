@@ -1,6 +1,6 @@
 # AndroLin_StoreApp
 
-![Logo Androlin atau screenshot dari website yang menarik]
+![Gambar web](images/androlin.jpg)
 
 ## Visi Kami
 **Androlin** diciptakan dengan satu tujuan utama: menjadi rumah bagi para developer yang ingin berbagi karya mereka tanpa hambatan. Kami melihat ruang di mana developer bisa mendapatkan eksposur dan kontrol penuh atas aplikasi yang mereka buat, sementara pengguna dapat menemukan aplikasi inovatif yang mungkin tidak tersedia di tempat lain.
@@ -19,5 +19,8 @@ Kami menawarkan platform yang ramah dan mudah digunakan untuk mengunggah dan men
 Kami mengundang Anda untuk menjadi bagian dari perjalanan ini. Mari kita bangun masa depan distribusi aplikasi bersama.
 
 ## Akses Langsung
-Kunjungi website kami untuk menjelajahi platform dan mulai mendaftar sebagai developer:
-[androlin.id](https://androlin.store)
+Kunjungi website kami disini:
+[androlin.store](https://androlin.store)
+
+Daftar sebagai developer di sini:
+[androlin.store.dev](https://www.androlin.store/developer/login)
